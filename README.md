@@ -4,8 +4,8 @@ Added by bradleybossard
 Reference pages
 ---------------
 
-* (Videogrep) [http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/]
-* (Minimal Videogrep) [http://zulko.github.io/blog/2014/06/21/some-more-videogreping-with-python/]
+* [Videogrep] (http://lav.io/2014/06/videogrep-automatic-supercuts-with-python/)
+* [Minimal Videogrep] (http://zulko.github.io/blog/2014/06/21/some-more-videogreping-with-python/)
 
 
 Videogrep
